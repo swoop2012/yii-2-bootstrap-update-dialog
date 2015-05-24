@@ -8,7 +8,7 @@
   'view'=>$this,
   'updateOptions'=>[
     'updateLinks'=>'.translate',
-    'updateTitle'=>'Перевод',
+    'updateTitle'=>'Translate',
     'gridSelector'=>'#projects'
   ]
 ]);
